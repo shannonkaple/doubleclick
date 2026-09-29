@@ -1,1 +1,0 @@
-Open index.html or upload these files to your GitHub Pages repo root.
