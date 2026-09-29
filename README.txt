@@ -1,1 +1,1 @@
-Upload all files in this folder to your GitHub Pages repo root. Main file: index.html
+Open index.html or upload these files to your GitHub Pages repo root.
