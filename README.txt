@@ -1,0 +1,1 @@
+Upload all files in this folder to your GitHub Pages repo root. Main file: index.html
